@@ -77,7 +77,7 @@ Test frames, pierce Shadow DOM. Playwright selectors pierce shadow DOM and allow
 
 ### Powerful Tooling
 
-**Codegen**. Generate tests by recording your actions. Save them into any language.
+**R**. Generate tests by recording your actions. Save them into any language.
 
 **Playwright inspector**. Inspect page, generate selectors, step through the test execution, see click points, explore execution logs.
 
